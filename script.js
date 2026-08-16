@@ -90,7 +90,7 @@ function nextQuestion() {
     feedback.innerText = '';
     
     document.getElementById('options-container').innerHTML = '';
-    answerInput.focus();
+//    answerInput.focus();
 }
 
 function checkAnswer() {
