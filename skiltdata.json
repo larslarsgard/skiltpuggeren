@@ -1,0 +1,2087 @@
+[
+  {
+    "code": "BL",
+    "area": "Asker og Bærum",
+    "county": "Akershus"
+  },
+  {
+    "code": "BN",
+    "area": "Asker og Bærum",
+    "county": "Akershus"
+  },
+  {
+    "code": "BP",
+    "area": "Asker og Bærum",
+    "county": "Akershus"
+  },
+  {
+    "code": "BR",
+    "area": "Asker og Bærum",
+    "county": "Akershus"
+  },
+  {
+    "code": "BS",
+    "area": "Asker og Bærum",
+    "county": "Akershus"
+  },
+  {
+    "code": "BT",
+    "area": "Asker og Bærum",
+    "county": "Akershus"
+  },
+  {
+    "code": "BU",
+    "area": "Asker og Bærum",
+    "county": "Akershus"
+  },
+  {
+    "code": "BV",
+    "area": "Asker og Bærum",
+    "county": "Akershus"
+  },
+  {
+    "code": "BX",
+    "area": "Asker og Bærum",
+    "county": "Akershus"
+  },
+  {
+    "code": "BY",
+    "area": "Asker og Bærum",
+    "county": "Akershus"
+  },
+  {
+    "code": "BZ",
+    "area": "Asker og Bærum",
+    "county": "Akershus"
+  },
+  {
+    "code": "CA",
+    "area": "Asker og Bærum",
+    "county": "Akershus"
+  },
+  {
+    "code": "CB",
+    "area": "Asker og Bærum",
+    "county": "Akershus"
+  },
+  {
+    "code": "BC",
+    "area": "Drøbak",
+    "county": "Akershus"
+  },
+  {
+    "code": "BD",
+    "area": "Drøbak",
+    "county": "Akershus"
+  },
+  {
+    "code": "BE",
+    "area": "Drøbak",
+    "county": "Akershus"
+  },
+  {
+    "code": "BF",
+    "area": "Drøbak",
+    "county": "Akershus"
+  },
+  {
+    "code": "BH",
+    "area": "Drøbak",
+    "county": "Akershus"
+  },
+  {
+    "code": "BJ",
+    "area": "Drøbak",
+    "county": "Akershus"
+  },
+  {
+    "code": "BK",
+    "area": "Drøbak",
+    "county": "Akershus"
+  },
+  {
+    "code": "CV",
+    "area": "Jessheim",
+    "county": "Akershus"
+  },
+  {
+    "code": "CX",
+    "area": "Jessheim",
+    "county": "Akershus"
+  },
+  {
+    "code": "CY",
+    "area": "Jessheim",
+    "county": "Akershus"
+  },
+  {
+    "code": "CZ",
+    "area": "Jessheim",
+    "county": "Akershus"
+  },
+  {
+    "code": "CU",
+    "area": "Jessheim",
+    "county": "Akershus"
+  },
+  {
+    "code": "CC",
+    "area": "Lillestrøm",
+    "county": "Akershus"
+  },
+  {
+    "code": "CE",
+    "area": "Lillestrøm",
+    "county": "Akershus"
+  },
+  {
+    "code": "CF",
+    "area": "Lillestrøm",
+    "county": "Akershus"
+  },
+  {
+    "code": "CH",
+    "area": "Lillestrøm",
+    "county": "Akershus"
+  },
+  {
+    "code": "CJ",
+    "area": "Lillestrøm",
+    "county": "Akershus"
+  },
+  {
+    "code": "CK",
+    "area": "Lillestrøm",
+    "county": "Akershus"
+  },
+  {
+    "code": "CL",
+    "area": "Lillestrøm",
+    "county": "Akershus"
+  },
+  {
+    "code": "CN",
+    "area": "Lillestrøm",
+    "county": "Akershus"
+  },
+  {
+    "code": "CP",
+    "area": "Lillestrøm",
+    "county": "Akershus"
+  },
+  {
+    "code": "CR",
+    "area": "Lillestrøm",
+    "county": "Akershus"
+  },
+  {
+    "code": "CS",
+    "area": "Lillestrøm",
+    "county": "Akershus"
+  },
+  {
+    "code": "CT",
+    "area": "Lillestrøm",
+    "county": "Akershus"
+  },
+  {
+    "code": "CU",
+    "area": "Lillestrøm",
+    "county": "Akershus"
+  },
+  {
+    "code": "KE",
+    "area": "Drammen",
+    "county": "Buskerud"
+  },
+  {
+    "code": "KF",
+    "area": "Drammen",
+    "county": "Buskerud"
+  },
+  {
+    "code": "KH",
+    "area": "Drammen",
+    "county": "Buskerud"
+  },
+  {
+    "code": "KJ",
+    "area": "Drammen",
+    "county": "Buskerud"
+  },
+  {
+    "code": "KK",
+    "area": "Drammen",
+    "county": "Buskerud"
+  },
+  {
+    "code": "KL",
+    "area": "Drammen",
+    "county": "Buskerud"
+  },
+  {
+    "code": "KN",
+    "area": "Drammen",
+    "county": "Buskerud"
+  },
+  {
+    "code": "KP",
+    "area": "Drammen",
+    "county": "Buskerud"
+  },
+  {
+    "code": "KR",
+    "area": "Drammen",
+    "county": "Buskerud"
+  },
+  {
+    "code": "KS",
+    "area": "Drammen",
+    "county": "Buskerud"
+  },
+  {
+    "code": "KB",
+    "area": "Gol",
+    "county": "Buskerud"
+  },
+  {
+    "code": "KC",
+    "area": "Gol",
+    "county": "Buskerud"
+  },
+  {
+    "code": "KD",
+    "area": "Gol",
+    "county": "Buskerud"
+  },
+  {
+    "code": "JU",
+    "area": "Hønefoss",
+    "county": "Buskerud"
+  },
+  {
+    "code": "JV",
+    "area": "Hønefoss",
+    "county": "Buskerud"
+  },
+  {
+    "code": "JX",
+    "area": "Hønefoss",
+    "county": "Buskerud"
+  },
+  {
+    "code": "JY",
+    "area": "Hønefoss",
+    "county": "Buskerud"
+  },
+  {
+    "code": "JZ",
+    "area": "Hønefoss",
+    "county": "Buskerud"
+  },
+  {
+    "code": "KA",
+    "area": "Hønefoss",
+    "county": "Buskerud"
+  },
+  {
+    "code": "KT",
+    "area": "Kongsberg",
+    "county": "Buskerud"
+  },
+  {
+    "code": "KU",
+    "area": "Kongsberg",
+    "county": "Buskerud"
+  },
+  {
+    "code": "KV",
+    "area": "Kongsberg",
+    "county": "Buskerud"
+  },
+  {
+    "code": "KX",
+    "area": "Kongsberg",
+    "county": "Buskerud"
+  },
+  {
+    "code": "KY",
+    "area": "Kongsberg",
+    "county": "Buskerud"
+  },
+  {
+    "code": "AD",
+    "area": "Hafslund",
+    "county": "Østfold"
+  },
+  {
+    "code": "AR",
+    "area": "Hafslund",
+    "county": "Østfold"
+  },
+  {
+    "code": "AS",
+    "area": "Hafslund",
+    "county": "Østfold"
+  },
+  {
+    "code": "AT",
+    "area": "Hafslund",
+    "county": "Østfold"
+  },
+  {
+    "code": "AU",
+    "area": "Hafslund",
+    "county": "Østfold"
+  },
+  {
+    "code": "AV",
+    "area": "Hafslund",
+    "county": "Østfold"
+  },
+  {
+    "code": "AW",
+    "area": "Hafslund",
+    "county": "Østfold"
+  },
+  {
+    "code": "DW",
+    "area": "Hafslund",
+    "county": "Østfold"
+  },
+  {
+    "code": "FL",
+    "area": "Hafslund",
+    "county": "Østfold"
+  },
+  {
+    "code": "AA",
+    "area": "Halden",
+    "county": "Østfold"
+  },
+  {
+    "code": "AB",
+    "area": "Halden",
+    "county": "Østfold"
+  },
+  {
+    "code": "AC",
+    "area": "Halden",
+    "county": "Østfold"
+  },
+  {
+    "code": "AX",
+    "area": "Moss",
+    "county": "Østfold"
+  },
+  {
+    "code": "AY",
+    "area": "Moss",
+    "county": "Østfold"
+  },
+  {
+    "code": "AZ",
+    "area": "Moss",
+    "county": "Østfold"
+  },
+  {
+    "code": "BA",
+    "area": "Moss",
+    "county": "Østfold"
+  },
+  {
+    "code": "AJ",
+    "area": "Mysen",
+    "county": "Østfold"
+  },
+  {
+    "code": "AK",
+    "area": "Mysen",
+    "county": "Østfold"
+  },
+  {
+    "code": "AL",
+    "area": "Mysen",
+    "county": "Østfold"
+  },
+  {
+    "code": "AN",
+    "area": "Mysen",
+    "county": "Østfold"
+  },
+  {
+    "code": "AP",
+    "area": "Mysen",
+    "county": "Østfold"
+  },
+  {
+    "code": "FN",
+    "area": "Mysen",
+    "county": "Østfold"
+  },
+  {
+    "code": "BW",
+    "area": "Mysen",
+    "county": "Østfold"
+  },
+  {
+    "code": "AE",
+    "area": "Sarpsborg",
+    "county": "Østfold"
+  },
+  {
+    "code": "AF",
+    "area": "Sarpsborg",
+    "county": "Østfold"
+  },
+  {
+    "code": "AH",
+    "area": "Sarpsborg",
+    "county": "Østfold"
+  },
+  {
+    "code": "DA",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DB",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DC",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DD",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DE",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DF",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DH",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DJ",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DK",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DL",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DN",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DP",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DR",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DS",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DT",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DU",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DV",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DX",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DY",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "DZ",
+    "area": "Oslo",
+    "county": "Oslo"
+  },
+  {
+    "code": "HB",
+    "area": "Elverum",
+    "county": "Innlandet"
+  },
+  {
+    "code": "HC",
+    "area": "Elverum",
+    "county": "Innlandet"
+  },
+  {
+    "code": "HD",
+    "area": "Elverum",
+    "county": "Innlandet"
+  },
+  {
+    "code": "HE",
+    "area": "Elverum",
+    "county": "Innlandet"
+  },
+  {
+    "code": "HA",
+    "area": "Elverum",
+    "county": "Innlandet"
+  },
+  {
+    "code": "FZ",
+    "area": "Elverum",
+    "county": "Innlandet"
+  },
+  {
+    "code": "JR",
+    "area": "Fagernes",
+    "county": "Innlandet"
+  },
+  {
+    "code": "JS",
+    "area": "Fagernes",
+    "county": "Innlandet"
+  },
+  {
+    "code": "JT",
+    "area": "Fagernes",
+    "county": "Innlandet"
+  },
+  {
+    "code": "JC",
+    "area": "Gjøvik",
+    "county": "Innlandet"
+  },
+  {
+    "code": "JD",
+    "area": "Gjøvik",
+    "county": "Innlandet"
+  },
+  {
+    "code": "JE",
+    "area": "Gjøvik",
+    "county": "Innlandet"
+  },
+  {
+    "code": "JF",
+    "area": "Gjøvik",
+    "county": "Innlandet"
+  },
+  {
+    "code": "JH",
+    "area": "Gjøvik",
+    "county": "Innlandet"
+  },
+  {
+    "code": "JJ",
+    "area": "Gjøvik",
+    "county": "Innlandet"
+  },
+  {
+    "code": "JK",
+    "area": "Gjøvik",
+    "county": "Innlandet"
+  },
+  {
+    "code": "JL",
+    "area": "Gjøvik",
+    "county": "Innlandet"
+  },
+  {
+    "code": "JN",
+    "area": "Gjøvik",
+    "county": "Innlandet"
+  },
+  {
+    "code": "JP",
+    "area": "Gjøvik",
+    "county": "Innlandet"
+  },
+  {
+    "code": "FS",
+    "area": "Hamar",
+    "county": "Innlandet"
+  },
+  {
+    "code": "FT",
+    "area": "Hamar",
+    "county": "Innlandet"
+  },
+  {
+    "code": "FU",
+    "area": "Hamar",
+    "county": "Innlandet"
+  },
+  {
+    "code": "FV",
+    "area": "Hamar",
+    "county": "Innlandet"
+  },
+  {
+    "code": "FX",
+    "area": "Hamar",
+    "county": "Innlandet"
+  },
+  {
+    "code": "FY",
+    "area": "Hamar",
+    "county": "Innlandet"
+  },
+  {
+    "code": "FZ",
+    "area": "Hamar",
+    "county": "Innlandet"
+  },
+  {
+    "code": "FW",
+    "area": "Hamar",
+    "county": "Innlandet"
+  },
+  {
+    "code": "ET",
+    "area": "Hamar",
+    "county": "Innlandet"
+  },
+  {
+    "code": "HJ",
+    "area": "Kongsvinger",
+    "county": "Innlandet"
+  },
+  {
+    "code": "HK",
+    "area": "Kongsvinger",
+    "county": "Innlandet"
+  },
+  {
+    "code": "HL",
+    "area": "Kongsvinger",
+    "county": "Innlandet"
+  },
+  {
+    "code": "HN",
+    "area": "Kongsvinger",
+    "county": "Innlandet"
+  },
+  {
+    "code": "HP",
+    "area": "Kongsvinger",
+    "county": "Innlandet"
+  },
+  {
+    "code": "HR",
+    "area": "Kongsvinger",
+    "county": "Innlandet"
+  },
+  {
+    "code": "HS",
+    "area": "Lillehammer",
+    "county": "Innlandet"
+  },
+  {
+    "code": "HT",
+    "area": "Lillehammer",
+    "county": "Innlandet"
+  },
+  {
+    "code": "HU",
+    "area": "Lillehammer",
+    "county": "Innlandet"
+  },
+  {
+    "code": "HV",
+    "area": "Lillehammer",
+    "county": "Innlandet"
+  },
+  {
+    "code": "HX",
+    "area": "Lillehammer",
+    "county": "Innlandet"
+  },
+  {
+    "code": "FB",
+    "area": "Lillehammer",
+    "county": "Innlandet"
+  },
+  {
+    "code": "HZ",
+    "area": "Otta",
+    "county": "Innlandet"
+  },
+  {
+    "code": "JA",
+    "area": "Otta",
+    "county": "Innlandet"
+  },
+  {
+    "code": "JB",
+    "area": "Otta",
+    "county": "Innlandet"
+  },
+  {
+    "code": "HF",
+    "area": "Tynset",
+    "county": "Innlandet"
+  },
+  {
+    "code": "HH",
+    "area": "Tynset",
+    "county": "Innlandet"
+  },
+  {
+    "code": "KZ",
+    "area": "Horten",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LA",
+    "area": "Horten",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LB",
+    "area": "Horten",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LC",
+    "area": "Horten",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LD",
+    "area": "Horten",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LS",
+    "area": "Larvik",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LT",
+    "area": "Larvik",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LU",
+    "area": "Larvik",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LV",
+    "area": "Larvik",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LX",
+    "area": "Larvik",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LZ",
+    "area": "Larvik",
+    "county": "Vestfold"
+  },
+  {
+    "code": "NA",
+    "area": "Larvik",
+    "county": "Vestfold"
+  },
+  {
+    "code": "NB",
+    "area": "Larvik",
+    "county": "Vestfold"
+  },
+  {
+    "code": "NC",
+    "area": "Larvik",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LY",
+    "area": "Sandefjord",
+    "county": "Vestfold"
+  },
+  {
+    "code": "NA",
+    "area": "Sandefjord",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LH",
+    "area": "Tønsberg",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LJ",
+    "area": "Tønsberg",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LK",
+    "area": "Tønsberg",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LL",
+    "area": "Tønsberg",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LN",
+    "area": "Tønsberg",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LP",
+    "area": "Tønsberg",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LR",
+    "area": "Tønsberg",
+    "county": "Vestfold"
+  },
+  {
+    "code": "LD",
+    "area": "Tønsberg",
+    "county": "Vestfold"
+  },
+  {
+    "code": "NV",
+    "area": "Notodden",
+    "county": "Telemark"
+  },
+  {
+    "code": "NX",
+    "area": "Notodden",
+    "county": "Telemark"
+  },
+  {
+    "code": "NY",
+    "area": "Notodden",
+    "county": "Telemark"
+  },
+  {
+    "code": "NZ",
+    "area": "Notodden",
+    "county": "Telemark"
+  },
+  {
+    "code": "PA",
+    "area": "Rjukan",
+    "county": "Telemark"
+  },
+  {
+    "code": "PB",
+    "area": "Rjukan",
+    "county": "Telemark"
+  },
+  {
+    "code": "ND",
+    "area": "Skien",
+    "county": "Telemark"
+  },
+  {
+    "code": "NE",
+    "area": "Skien",
+    "county": "Telemark"
+  },
+  {
+    "code": "NF",
+    "area": "Skien",
+    "county": "Telemark"
+  },
+  {
+    "code": "NH",
+    "area": "Skien",
+    "county": "Telemark"
+  },
+  {
+    "code": "NJ",
+    "area": "Skien",
+    "county": "Telemark"
+  },
+  {
+    "code": "NK",
+    "area": "Skien",
+    "county": "Telemark"
+  },
+  {
+    "code": "NL",
+    "area": "Skien",
+    "county": "Telemark"
+  },
+  {
+    "code": "NN",
+    "area": "Skien",
+    "county": "Telemark"
+  },
+  {
+    "code": "NP",
+    "area": "Skien",
+    "county": "Telemark"
+  },
+  {
+    "code": "NR",
+    "area": "Skien",
+    "county": "Telemark"
+  },
+  {
+    "code": "NT",
+    "area": "Skien",
+    "county": "Telemark"
+  },
+  {
+    "code": "NU",
+    "area": "Skien",
+    "county": "Telemark"
+  },
+  {
+    "code": "PC",
+    "area": "Arendal",
+    "county": "Agder"
+  },
+  {
+    "code": "PD",
+    "area": "Arendal",
+    "county": "Agder"
+  },
+  {
+    "code": "PE",
+    "area": "Arendal",
+    "county": "Agder"
+  },
+  {
+    "code": "PF",
+    "area": "Arendal",
+    "county": "Agder"
+  },
+  {
+    "code": "PH",
+    "area": "Arendal",
+    "county": "Agder"
+  },
+  {
+    "code": "PJ",
+    "area": "Arendal",
+    "county": "Agder"
+  },
+  {
+    "code": "PK",
+    "area": "Arendal",
+    "county": "Agder"
+  },
+  {
+    "code": "RA",
+    "area": "Flekkefjord",
+    "county": "Agder"
+  },
+  {
+    "code": "RB",
+    "area": "Flekkefjord",
+    "county": "Agder"
+  },
+  {
+    "code": "PN",
+    "area": "Kristiansand",
+    "county": "Agder"
+  },
+  {
+    "code": "PP",
+    "area": "Kristiansand",
+    "county": "Agder"
+  },
+  {
+    "code": "PR",
+    "area": "Kristiansand",
+    "county": "Agder"
+  },
+  {
+    "code": "PS",
+    "area": "Kristiansand",
+    "county": "Agder"
+  },
+  {
+    "code": "PT",
+    "area": "Kristiansand",
+    "county": "Agder"
+  },
+  {
+    "code": "PU",
+    "area": "Kristiansand",
+    "county": "Agder"
+  },
+  {
+    "code": "PV",
+    "area": "Kristiansand",
+    "county": "Agder"
+  },
+  {
+    "code": "PW",
+    "area": "Kristiansand",
+    "county": "Agder"
+  },
+  {
+    "code": "PX",
+    "area": "Mandal",
+    "county": "Agder"
+  },
+  {
+    "code": "PY",
+    "area": "Mandal",
+    "county": "Agder"
+  },
+  {
+    "code": "PZ",
+    "area": "Mandal",
+    "county": "Agder"
+  },
+  {
+    "code": "RC",
+    "area": "Mandal",
+    "county": "Agder"
+  },
+  {
+    "code": "RD",
+    "area": "Mandal",
+    "county": "Agder"
+  },
+  {
+    "code": "PL",
+    "area": "Setesdal",
+    "county": "Agder"
+  },
+  {
+    "code": "LF",
+    "area": "Setesdal",
+    "county": "Agder"
+  },
+  {
+    "code": "RZ",
+    "area": "Egersund",
+    "county": "Rogaland"
+  },
+  {
+    "code": "SA",
+    "area": "Egersund",
+    "county": "Rogaland"
+  },
+  {
+    "code": "SB",
+    "area": "Egersund",
+    "county": "Rogaland"
+  },
+  {
+    "code": "SC",
+    "area": "Haugesund",
+    "county": "Rogaland"
+  },
+  {
+    "code": "SD",
+    "area": "Haugesund",
+    "county": "Rogaland"
+  },
+  {
+    "code": "SE",
+    "area": "Haugesund",
+    "county": "Rogaland"
+  },
+  {
+    "code": "SF",
+    "area": "Haugesund",
+    "county": "Rogaland"
+  },
+  {
+    "code": "SH",
+    "area": "Haugesund",
+    "county": "Rogaland"
+  },
+  {
+    "code": "SJ",
+    "area": "Haugesund",
+    "county": "Rogaland"
+  },
+  {
+    "code": "SK",
+    "area": "Haugesund",
+    "county": "Rogaland"
+  },
+  {
+    "code": "SL",
+    "area": "Haugesund",
+    "county": "Rogaland"
+  },
+  {
+    "code": "RE",
+    "area": "Stavanger",
+    "county": "Rogaland"
+  },
+  {
+    "code": "RF",
+    "area": "Stavanger",
+    "county": "Rogaland"
+  },
+  {
+    "code": "RH",
+    "area": "Stavanger",
+    "county": "Rogaland"
+  },
+  {
+    "code": "RJ",
+    "area": "Stavanger",
+    "county": "Rogaland"
+  },
+  {
+    "code": "RK",
+    "area": "Stavanger",
+    "county": "Rogaland"
+  },
+  {
+    "code": "RL",
+    "area": "Stavanger",
+    "county": "Rogaland"
+  },
+  {
+    "code": "RN",
+    "area": "Stavanger",
+    "county": "Rogaland"
+  },
+  {
+    "code": "RP",
+    "area": "Stavanger",
+    "county": "Rogaland"
+  },
+  {
+    "code": "RR",
+    "area": "Stavanger",
+    "county": "Rogaland"
+  },
+  {
+    "code": "RS",
+    "area": "Stavanger",
+    "county": "Rogaland"
+  },
+  {
+    "code": "RT",
+    "area": "Stavanger",
+    "county": "Rogaland"
+  },
+  {
+    "code": "RU",
+    "area": "Stavanger",
+    "county": "Rogaland"
+  },
+  {
+    "code": "RV",
+    "area": "Stavanger",
+    "county": "Rogaland"
+  },
+  {
+    "code": "RX",
+    "area": "Stavanger",
+    "county": "Rogaland"
+  },
+  {
+    "code": "RY",
+    "area": "Stavanger",
+    "county": "Rogaland"
+  },
+  {
+    "code": "RW",
+    "area": "Stavanger",
+    "county": "Rogaland"
+  },
+  {
+    "code": "SN",
+    "area": "Bergen",
+    "county": "Vestland"
+  },
+  {
+    "code": "SP",
+    "area": "Bergen",
+    "county": "Vestland"
+  },
+  {
+    "code": "SR",
+    "area": "Bergen",
+    "county": "Vestland"
+  },
+  {
+    "code": "SS",
+    "area": "Bergen",
+    "county": "Vestland"
+  },
+  {
+    "code": "ST",
+    "area": "Bergen",
+    "county": "Vestland"
+  },
+  {
+    "code": "SU",
+    "area": "Bergen",
+    "county": "Vestland"
+  },
+  {
+    "code": "SV",
+    "area": "Bergen",
+    "county": "Vestland"
+  },
+  {
+    "code": "SX",
+    "area": "Bergen",
+    "county": "Vestland"
+  },
+  {
+    "code": "SY",
+    "area": "Bergen",
+    "county": "Vestland"
+  },
+  {
+    "code": "SZ",
+    "area": "Bergen",
+    "county": "Vestland"
+  },
+  {
+    "code": "TA",
+    "area": "Bergen",
+    "county": "Vestland"
+  },
+  {
+    "code": "TB",
+    "area": "Bergen",
+    "county": "Vestland"
+  },
+  {
+    "code": "TC",
+    "area": "Bergen",
+    "county": "Vestland"
+  },
+  {
+    "code": "TD",
+    "area": "Bergen",
+    "county": "Vestland"
+  },
+  {
+    "code": "TE",
+    "area": "Bergen",
+    "county": "Vestland"
+  },
+  {
+    "code": "HW",
+    "area": "Bergen",
+    "county": "Vestland"
+  },
+  {
+    "code": "TV",
+    "area": "Førde",
+    "county": "Vestland"
+  },
+  {
+    "code": "TX",
+    "area": "Førde",
+    "county": "Vestland"
+  },
+  {
+    "code": "TY",
+    "area": "Førde",
+    "county": "Vestland"
+  },
+  {
+    "code": "TZ",
+    "area": "Førde",
+    "county": "Vestland"
+  },
+  {
+    "code": "UA",
+    "area": "Nordfjordeid",
+    "county": "Vestland"
+  },
+  {
+    "code": "UB",
+    "area": "Nordfjordeid",
+    "county": "Vestland"
+  },
+  {
+    "code": "TS",
+    "area": "Odda",
+    "county": "Vestland"
+  },
+  {
+    "code": "TT",
+    "area": "Odda",
+    "county": "Vestland"
+  },
+  {
+    "code": "TU",
+    "area": "Odda",
+    "county": "Vestland"
+  },
+  {
+    "code": "UC",
+    "area": "Sogndal",
+    "county": "Vestland"
+  },
+  {
+    "code": "UD",
+    "area": "Sogndal",
+    "county": "Vestland"
+  },
+  {
+    "code": "TL",
+    "area": "Stord",
+    "county": "Vestland"
+  },
+  {
+    "code": "TN",
+    "area": "Stord",
+    "county": "Vestland"
+  },
+  {
+    "code": "TP",
+    "area": "Stord",
+    "county": "Vestland"
+  },
+  {
+    "code": "TR",
+    "area": "Stord",
+    "county": "Vestland"
+  },
+  {
+    "code": "TF",
+    "area": "Voss",
+    "county": "Vestland"
+  },
+  {
+    "code": "TH",
+    "area": "Voss",
+    "county": "Vestland"
+  },
+  {
+    "code": "TJ",
+    "area": "Voss",
+    "county": "Vestland"
+  },
+  {
+    "code": "TK",
+    "area": "Voss",
+    "county": "Vestland"
+  },
+  {
+    "code": "UX",
+    "area": "Kristiansund",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "UY",
+    "area": "Kristiansund",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "UZ",
+    "area": "Kristiansund",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "VA",
+    "area": "Kristiansund",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "UR",
+    "area": "Molde",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "US",
+    "area": "Molde",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "UT",
+    "area": "Molde",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "UU",
+    "area": "Molde",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "UV",
+    "area": "Molde",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "VB",
+    "area": "Sunndalsøra",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "VC",
+    "area": "Sunndalsøra",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "UN",
+    "area": "Ørsta",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "UP",
+    "area": "Ørsta",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "BB",
+    "area": "Ørsta",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "UE",
+    "area": "Ålesund",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "UF",
+    "area": "Ålesund",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "UH",
+    "area": "Ålesund",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "UJ",
+    "area": "Ålesund",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "UK",
+    "area": "Ålesund",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "UL",
+    "area": "Ålesund",
+    "county": "Møre og Romsdal"
+  },
+  {
+    "code": "XA",
+    "area": "Brekstad",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "XB",
+    "area": "Brekstad",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "XC",
+    "area": "Brekstad",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "XK",
+    "area": "Levanger",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "XL",
+    "area": "Levanger",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VW",
+    "area": "Levanger",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "XR",
+    "area": "Namsos",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "XS",
+    "area": "Namsos",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "XT",
+    "area": "Namsos",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "XU",
+    "area": "Namsos",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VX",
+    "area": "Orkdal",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VY",
+    "area": "Orkdal",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VZ",
+    "area": "Orkdal",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "XD",
+    "area": "Steinkjer",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "XE",
+    "area": "Steinkjer",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "XF",
+    "area": "Steinkjer",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "XH",
+    "area": "Steinkjer",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "XJ",
+    "area": "Steinkjer",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "XW",
+    "area": "Steinkjer",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "XN",
+    "area": "Stjørdal",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "XP",
+    "area": "Stjørdal",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "YW",
+    "area": "Stjørdal",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VS",
+    "area": "Støren",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VT",
+    "area": "Støren",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "FP",
+    "area": "Trondheim",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VD",
+    "area": "Trondheim",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VE",
+    "area": "Trondheim",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VF",
+    "area": "Trondheim",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VH",
+    "area": "Trondheim",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VJ",
+    "area": "Trondheim",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VK",
+    "area": "Trondheim",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VL",
+    "area": "Trondheim",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VN",
+    "area": "Trondheim",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VP",
+    "area": "Trondheim",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VR",
+    "area": "Trondheim",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VS",
+    "area": "Trondheim",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VU",
+    "area": "Trondheim",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "VV",
+    "area": "Trondheim",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "NW",
+    "area": "Trondheim",
+    "county": "Trøndelag"
+  },
+  {
+    "code": "YE",
+    "area": "Bodø",
+    "county": "Nordland"
+  },
+  {
+    "code": "YF",
+    "area": "Bodø",
+    "county": "Nordland"
+  },
+  {
+    "code": "YH",
+    "area": "Bodø",
+    "county": "Nordland"
+  },
+  {
+    "code": "YJ",
+    "area": "Bodø",
+    "county": "Nordland"
+  },
+  {
+    "code": "FD",
+    "area": "Bodø",
+    "county": "Nordland"
+  },
+  {
+    "code": "EZ",
+    "area": "Bodø",
+    "county": "Nordland"
+  },
+  {
+    "code": "YK",
+    "area": "Fauske",
+    "county": "Nordland"
+  },
+  {
+    "code": "YL",
+    "area": "Fauske",
+    "county": "Nordland"
+  },
+  {
+    "code": "YA",
+    "area": "Mo i Rana",
+    "county": "Nordland"
+  },
+  {
+    "code": "YB",
+    "area": "Mo i Rana",
+    "county": "Nordland"
+  },
+  {
+    "code": "YC",
+    "area": "Mo i Rana",
+    "county": "Nordland"
+  },
+  {
+    "code": "YD",
+    "area": "Mo i Rana",
+    "county": "Nordland"
+  },
+  {
+    "code": "XV",
+    "area": "Mosjøen",
+    "county": "Nordland"
+  },
+  {
+    "code": "XX",
+    "area": "Mosjøen",
+    "county": "Nordland"
+  },
+  {
+    "code": "XY",
+    "area": "Mosjøen",
+    "county": "Nordland"
+  },
+  {
+    "code": "XZ",
+    "area": "Mosjøen",
+    "county": "Nordland"
+  },
+  {
+    "code": "FA",
+    "area": "Mosjøen",
+    "county": "Nordland"
+  },
+  {
+    "code": "YN",
+    "area": "Narvik",
+    "county": "Nordland"
+  },
+  {
+    "code": "YP",
+    "area": "Narvik",
+    "county": "Nordland"
+  },
+  {
+    "code": "YR",
+    "area": "Narvik",
+    "county": "Nordland"
+  },
+  {
+    "code": "YS",
+    "area": "Narvik",
+    "county": "Nordland"
+  },
+  {
+    "code": "YU",
+    "area": "Sortland",
+    "county": "Nordland"
+  },
+  {
+    "code": "YV",
+    "area": "Sortland",
+    "county": "Nordland"
+  },
+  {
+    "code": "YX",
+    "area": "Sortland",
+    "county": "Nordland"
+  },
+  {
+    "code": "YT",
+    "area": "Svolvær",
+    "county": "Nordland"
+  },
+  {
+    "code": "YY",
+    "area": "Svolvær",
+    "county": "Nordland"
+  },
+  {
+    "code": "ZD",
+    "area": "Finnsnes",
+    "county": "Troms"
+  },
+  {
+    "code": "ZF",
+    "area": "Finnsnes",
+    "county": "Troms"
+  },
+  {
+    "code": "ZJ",
+    "area": "Finnsnes",
+    "county": "Troms"
+  },
+  {
+    "code": "YZ",
+    "area": "Harstad",
+    "county": "Troms"
+  },
+  {
+    "code": "ZA",
+    "area": "Harstad",
+    "county": "Troms"
+  },
+  {
+    "code": "ZB",
+    "area": "Harstad",
+    "county": "Troms"
+  },
+  {
+    "code": "TW",
+    "area": "Harstad",
+    "county": "Troms"
+  },
+  {
+    "code": "FK",
+    "area": "Storslett",
+    "county": "Troms"
+  },
+  {
+    "code": "SW",
+    "area": "Storslett",
+    "county": "Troms"
+  },
+  {
+    "code": "ZC",
+    "area": "Tromsø",
+    "county": "Troms"
+  },
+  {
+    "code": "ZE",
+    "area": "Tromsø",
+    "county": "Troms"
+  },
+  {
+    "code": "ZH",
+    "area": "Tromsø",
+    "county": "Troms"
+  },
+  {
+    "code": "ZK",
+    "area": "Tromsø",
+    "county": "Troms"
+  },
+  {
+    "code": "ZL",
+    "area": "Tromsø",
+    "county": "Troms"
+  },
+  {
+    "code": "FC",
+    "area": "Tromsø",
+    "county": "Troms"
+  },
+  {
+    "code": "ZT",
+    "area": "Alta",
+    "county": "Finnmark"
+  },
+  {
+    "code": "ZU",
+    "area": "Alta",
+    "county": "Finnmark"
+  },
+  {
+    "code": "ZV",
+    "area": "Alta",
+    "county": "Finnmark"
+  },
+  {
+    "code": "ZY",
+    "area": "Alta",
+    "county": "Finnmark"
+  },
+  {
+    "code": "ZW",
+    "area": "Alta",
+    "county": "Finnmark"
+  },
+  {
+    "code": "UW",
+    "area": "Alta",
+    "county": "Finnmark"
+  },
+  {
+    "code": "ZX",
+    "area": "Hammerfest",
+    "county": "Finnmark"
+  },
+  {
+    "code": "FF",
+    "area": "Hammerfest",
+    "county": "Finnmark"
+  },
+  {
+    "code": "ZS",
+    "area": "Kirkenes",
+    "county": "Finnmark"
+  },
+  {
+    "code": "EY",
+    "area": "Kirkenes",
+    "county": "Finnmark"
+  },
+  {
+    "code": "ZZ",
+    "area": "Lakselv",
+    "county": "Finnmark"
+  },
+  {
+    "code": "CW",
+    "area": "Lakselv",
+    "county": "Finnmark"
+  },
+  {
+    "code": "FR",
+    "area": "Vadsø",
+    "county": "Finnmark"
+  },
+  {
+    "code": "ZP",
+    "area": "Vadsø",
+    "county": "Finnmark"
+  },
+  {
+    "code": "ZR",
+    "area": "Vadsø",
+    "county": "Finnmark"
+  },
+  {
+    "code": "LE",
+    "area": "Vadsø",
+    "county": "Finnmark"
+  },
+  {
+    "code": "ZN",
+    "area": "Svalbard",
+    "county": "Svalbard"
+  },
+  {
+    "code": "FH",
+    "area": "Svalbard",
+    "county": "Svalbard"
+  },
+  {
+    "code": "EL",
+    "area": "Elektrisk",
+    "county": "Annet"
+  },
+  {
+    "code": "EK",
+    "area": "Elektrisk",
+    "county": "Annet"
+  },
+  {
+    "code": "EV",
+    "area": "Elektrisk",
+    "county": "Annet"
+  },
+  {
+    "code": "EB",
+    "area": "Elektrisk",
+    "county": "Annet"
+  },
+  {
+    "code": "EC",
+    "area": "Elektrisk",
+    "county": "Annet"
+  },
+  {
+    "code": "ED",
+    "area": "Elektrisk",
+    "county": "Annet"
+  },
+  {
+    "code": "EE",
+    "area": "Elektrisk",
+    "county": "Annet"
+  },
+  {
+    "code": "EF",
+    "area": "Elektrisk",
+    "county": "Annet"
+  },
+  {
+    "code": "EH",
+    "area": "Elektrisk",
+    "county": "Annet"
+  },
+  {
+    "code": "EJ",
+    "area": "Elektrisk",
+    "county": "Annet"
+  },
+  {
+    "code": "EN",
+    "area": "Elektrisk",
+    "county": "Annet"
+  },
+  {
+    "code": "EP",
+    "area": "Elektrisk",
+    "county": "Annet"
+  },
+  {
+    "code": "ER",
+    "area": "Elektrisk",
+    "county": "Annet"
+  },
+  {
+    "code": "EA",
+    "area": "Elektrisk",
+    "county": "Annet"
+  },
+  {
+    "code": "EU",
+    "area": "Elektrisk",
+    "county": "Annet"
+  },
+  {
+    "code": "GA",
+    "area": "Gass",
+    "county": "Annet"
+  },
+  {
+    "code": "HY",
+    "area": "Hydrogen",
+    "county": "Annet"
+  },
+  {
+    "code": "CD",
+    "area": "Ambassade",
+    "county": "Annet"
+  }
+]
