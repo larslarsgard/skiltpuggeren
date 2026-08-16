@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skiltpugger - Lær norske bilskilt</title>
+    <!-- Link til stilarket du oppretter i style.css -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="game-container">
+        <header>
+            <h1>Skiltpugger'n</h1>
+            <p>Hvilket geografisk område eller fylke tilhører denne bokstavkombinasjonen?</p>
+        </header>
+
+        <!-- Det visuelle bilskiltet -->
+        <div class="license-plate-wrapper">
+            <div class="plate">
+                <div class="plate-blue-strip">
+                    <!-- Et lite norsk flagg fra Wikimedia for ekstra realisme -->
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" alt="Norsk flagg" class="flag-icon">
+                    <span class="country-code">N</span>
+                </div>
+                <!-- Her injiserer JavaScriptet bokstavene og tallene -->
+                <div class="plate-text" id="skilt-text">LA 12345</div>
+            </div>
+        </div>
+
+        <!-- Brukerinput og hovedknapper -->
+        <section class="input-section">
+            <input 
+                type="text" 
+                id="answer-input" 
+                placeholder="Skriv inn område eller fylke..." 
+                autocomplete="off"
+            >
+            <button onclick="checkAnswer()" class="btn-primary">Sjekk svar</button>
+        </section>
+
+        <!-- Hjelpemidler -->
+        <section class="helpers-section">
+            <button onclick="revealThreeOptions()" class="btn-secondary">Gi meg 3 alternativer</button>
+            <button onclick="revealAnswer()" class="btn-warning">Avslør fasit</button>
+            <button onclick="nextQuestion()" class="btn-next">Neste skilt ➔</button>
+        </section>
+
+        <!-- Her dukker de 3 alternativene opp hvis brukeren ber om hint -->
+        <div id="options-container" class="options-container"></div>
+
+        <!-- Tilbakemelding (Feil/Riktig svar) dukker opp her -->
+        <div id="feedback" class="feedback-text"></div>
+        
+    </main>
+
+    <!-- Henter inn spill-logikken -->
+    <script src="script.js"></script>
+</body>
+</html>
